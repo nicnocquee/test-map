@@ -2,6 +2,8 @@
 
 Maps application.
 
+Note: insert a valid Google Maps API Key in src/Map.js for better visualization.
+
 ## Building and running on localhost
 
 First install dependencies:
