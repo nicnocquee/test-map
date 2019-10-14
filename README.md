@@ -23,7 +23,7 @@ npm start
 To create a production build:
 
 ```sh
-npm run build
+npm build
 ```
 
 You can find the output files in `dist` directory
