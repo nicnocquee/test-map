@@ -1,0 +1,34 @@
+{
+  "name": "maply-test",
+  "version": "0.0.0",
+  "author": "Igor Almeida",
+  "private": true,
+  "dependencies": {
+    "file-saver": "^2.0.2",
+    "google-maps-react": "2.0.2",
+    "prop-types": "^15.7.2",
+    "react": "16.8.0",
+    "react-dom": "16.8.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
